@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>591823726151-7e2j5f5ar7jh4fh5monnc5pn90eah00p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.591823726151-7e2j5f5ar7jh4fh5monnc5pn90eah00p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqgEdcDGj9iojFGcahRXypM6ASh086_WE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>591823726151</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sushant.DemoApp</string>
+	<key>PROJECT_ID</key>
+	<string>demoapp-d2615</string>
+	<key>STORAGE_BUCKET</key>
+	<string>demoapp-d2615.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:591823726151:ios:d0b7c3ca82fd93edd57362</string>
+	<key>DATABASE_URL</key>
+	<string>https://demoapp-d2615.firebaseio.com</string>
+</dict>
+</plist>
